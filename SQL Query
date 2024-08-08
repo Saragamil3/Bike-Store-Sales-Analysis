@@ -1,0 +1,34 @@
+use BikeStores
+
+select p.product_id , p.product_name , p.model_year, p.list_price , c.category_name , b.brand_name , sum(s.quantity) as Quantity_in_stock 
+from production.products p join production.categories c
+on p.category_id=c.category_id join production.brands b 
+on p.brand_id=b.brand_id join production.stocks s
+on p.product_id=s.product_id
+group by p.product_id,p.product_name, p.model_year,p.list_price , c.category_name , b.brand_name
+order by product_id; 
+
+
+select  distinct product_id, sum(quantity)
+from production.stocks
+group by product_id
+order by product_id
+
+
+select  o.order_id,p.product_id,o.order_date,o.shipped_date,o.required_date,o.order_status ,
+ i.quantity,i.list_price,i.discount 
+from  sales.orders o join sales.order_items i
+on i.order_id=o.order_id join production.products p
+on p.product_id=i.product_id ;
+
+
+select o.order_id,sr.store_name, sr.city,sr.state 
+from sales.orders o join sales.stores sr 
+on sr.store_id=o.store_id 
+
+
+select o.order_id, concat(st.first_name,st.last_name) as SalesRep 
+from sales.orders o join  sales.staffs st 
+on st.staff_id=o.staff_id
+
+
