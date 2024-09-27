@@ -1,27 +1,31 @@
-Analysis of bike store sales over three yeers:2016,2017 and,2018
-Analysis Steps 
-1- Data Collection: 
+# Analysis of bike store sales over three yeers:2016,2017 and,2018
+## Analysis Steps 
+## Data Collection
 Extract Data From BIKESTORES Database 
 Extract 5 Tables are Orders, Customers , Products, Store and SalesRep.  
 Tool: SQL 
 
-2- Data Preprocessing : Clean and prepare the collected data by removing duplicates, correcting errors, and handling missing values 
+## Data Preprocessing 
+Clean and prepare the collected data by removing duplicates, correcting errors, and handling missing values 
 Tool: Power Query 
 
-3- Data Modeling : Designing a star schema to organize data into fact and dimension tables. This improves query performance and enhances ease of analysis
+## Data Modeling 
+Designing a star schema to organize data into fact and dimension tables. This improves query performance and enhances ease of analysis
 Tool: Microsoft Power BI 
 
 
-4- Data Analysis : identify trends, patterns, and correlations within the sales data
+## Data Analysis 
+identify trends, patterns, and correlations within the sales data
 Tool: DAX 
 
 
-5- Data Visualization: Create charts, graphs, and dashboards to visually represent the data. Visualization aids in quickly identifying key insights and making the data more accessible to stakeholders.
+## Data Visualization
+Create charts, graphs, and dashboards to visually represent the data. Visualization aids in quickly identifying key insights and making the data more accessible to stakeholders.
 Tool: Power BI Visuals 
 
 
 
-Key Results : 
+## Key Results 
 -Total Sales   8.58M
 -Net Sales   7.69M
 -Discount Percentage  10.37%
@@ -38,6 +42,11 @@ Key Results :
 -Top Sales Person in terms of Sales is  "Marcelene Boyer" 
 -In the last 7 Months of 2018, sales decreased by 66.8% compared to previous years due to a decline in the number of orders during this period.
 -Most brand name in terms of sales is "Trek" and, Category name is "Mountain Bikes" and "Cruisers Bicycles" in terms of orders
+
+## DASHBOARD
+![Region](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20072619.png)
+![Sales](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20072703.png)
+![Products](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20095451.png)
 
 
 
