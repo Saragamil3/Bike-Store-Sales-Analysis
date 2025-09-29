@@ -1,4 +1,10 @@
 # Analysis of bike store sales over three yeers:2016,2017 and,2018
+
+## DASHBOARD
+![Region](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20072619.png)
+![Sales](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20072703.png)
+![Products](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20095451.png)
+
 ## Analysis Steps 
 ## Data Collection
 Extract Data From BIKESTORES Database 
@@ -43,10 +49,6 @@ Tool: Power BI Visuals
 - In the last 7 Months of 2018, sales decreased by 66.8% compared to previous years due to a decline in the number of orders during this period.
 - Most brand name in terms of sales is "Trek" and, Category name is "Mountain Bikes" and "Cruisers Bicycles" in terms of orders
 
-## DASHBOARD
-![Region](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20072619.png)
-![Sales](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20072703.png)
-![Products](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20095451.png)
 
 
 
