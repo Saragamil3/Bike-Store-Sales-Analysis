@@ -1,9 +1,9 @@
 # Analysis of bike store sales over three yeers:2016,2017 and,2018
 
 ## DASHBOARD
-![Region](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20072619.png)
 ![Sales](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20072703.png)
 ![Products](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20095451.png)
+![Region](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20073857.png)
 
 ## Analysis Steps 
 ## Data Collection
