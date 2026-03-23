@@ -4,31 +4,31 @@ The business noticed that some stores were generating significantly lower sales 
 # Goal
 The goal of the analysis was to identify the reasons behind this underperformance and provide data-driven recommendations to improve sales.
 # Storytelling
-- Overview
-- Identify the Problem
--- Which stores have the lowest sales performance?
--- How does sales performance vary across stores?
--- Which stores are underperforming compared to the company average?
--- Is the sales decline consistent over time or recent?
-- Orders Investigation
+## Overview
+## Identify the Problem
+- Which stores have the lowest sales performance?
+-  How does sales performance vary across stores?
+-  hich stores are underperforming compared to the company average?
+-  Is the sales decline consistent over time or recent?
+## Orders Investigation
 -- Do underperforming stores have fewer orders?
 -- What is the average order value per store?
 -- Is the issue caused by low order volume or low order value?
-- Customer Investigation
--- Do low-performing stores have fewer customers?
--- What is the average revenue per customer in each store?
--- Are customers returning to buy again in these stores?
--- Which stores have the highest customer retention?
-- Product Investigation
--- Which products are driving sales in high-performing stores?
--- Are those products available in low-performing stores?
--- Which product categories have low sales in these stores?
--- Are high-demand products underrepresented in certain stores?
-- Staff Investigation
--- Which staff members generate the highest sales?
--- Do underperforming stores have lower staff performance?
--- How does sales per staff compare across stores?
-- Insights & Recommendations
+## Customer Investigation
+- Do low-performing stores have fewer customers?
+- What is the average revenue per customer in each store?
+- Are customers returning to buy again in these stores?
+- Which stores have the highest customer retention?
+## Product Investigation
+-  Which products are driving sales in high-performing stores?
+-  Are those products available in low-performing stores?
+-  Which product categories have low sales in these stores?
+-  Are high-demand products underrepresented in certain stores?
+## Staff Investigation
+-  Which staff members generate the highest sales?
+-  Do underperforming stores have lower staff performance?
+-  How does sales per staff compare across stores?
+## Insights & Recommendations
 ## Analysis Steps 
 ## Data Collection
 Extract Data From BIKESTORES Database 
