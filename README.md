@@ -1,35 +1,29 @@
 # Analysis of bike store sales over three yeers:2016,2017 and,2018
-
-## DASHBOARD
+# Problem 
+The business noticed that some stores were generating significantly lower sales compared to other branches.
+# Goal
+The goal of the analysis was to identify the reasons behind this underperformance and provide data-driven recommendations to improve sales.
+## Analysis Steps 
+## Data Collection
+Extract Data From BIKESTORES Database 
+Extract 5 Tables are Orders, Customers , Products, Store and staff.  
+Tool: SQL, SQL server 
+## Data Preprocessing 
+Clean and prepare the collected data by removing duplicates rows 
+Tool: Power Query 
+## Data Modeling 
+Designing a star schema to organize data into one fact and 6 dimension tables. This improves query performance and enhances ease of analysis
+## Data Analysis 
+identify trends, patterns, and correlations within the sales data
+Tool: DAX 
+## Data Visualization
+Create charts, graphs, and dashboards to visually represent the data. Visualization aids in quickly identifying key insights and making the data more accessible to stakeholders.
+Tool: Power BI Visuals 
+  ## DASHBOARD
 ![Region](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20072619.png)
 ![Sales](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20072703.png)
 ![Products](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20095451.png)
 ![Region](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20073857.png)
-
-## Analysis Steps 
-## Data Collection
-Extract Data From BIKESTORES Database 
-Extract 5 Tables are Orders, Customers , Products, Store and SalesRep.  
-Tool: SQL 
-
-## Data Preprocessing 
-Clean and prepare the collected data by removing duplicates, correcting errors, and handling missing values 
-Tool: Power Query 
-
-## Data Modeling 
-Designing a star schema to organize data into fact and dimension tables. This improves query performance and enhances ease of analysis
-Tool: Microsoft Power BI 
-
-
-## Data Analysis 
-identify trends, patterns, and correlations within the sales data
-Tool: DAX 
-
-
-## Data Visualization
-Create charts, graphs, and dashboards to visually represent the data. Visualization aids in quickly identifying key insights and making the data more accessible to stakeholders.
-Tool: Power BI Visuals 
-
 
 
 ## Key Results 
@@ -49,7 +43,6 @@ Tool: Power BI Visuals
 - Top Sales Person in terms of Sales is  "Marcelene Boyer" 
 - In the last 7 Months of 2018, sales decreased by 66.8% compared to previous years due to a decline in the number of orders during this period.
 - Most brand name in terms of sales is "Trek" and, Category name is "Mountain Bikes" and "Cruisers Bicycles" in terms of orders
-
 
 
 
