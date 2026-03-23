@@ -1,8 +1,15 @@
 # Analysis of bike store sales over three yeers:2016,2017 and,2018
-# Problem 
+# Business Problem 
 The business noticed that some stores were generating significantly lower sales compared to other branches.
 # Goal
 The goal of the analysis was to identify the reasons behind this underperformance and provide data-driven recommendations to improve sales.
+# Storytelling
+- Overview
+- Store Performance
+- Customer Behavior
+- Product Performance
+- Staff Performance
+- Insights & Recommendations
 ## Analysis Steps 
 ## Data Collection
 Extract Data From BIKESTORES Database 
