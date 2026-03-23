@@ -5,10 +5,9 @@ The business noticed that some stores were generating significantly lower sales 
 The goal of the analysis was to identify the reasons behind this underperformance and provide data-driven recommendations to improve sales.
 # Storytelling
 ## Overview
-## Identify the Problem
+## Identify business Problem
 - Which stores have the lowest sales performance?
 -  How does sales performance vary across stores?
--  hich stores are underperforming compared to the company average?
 -  Is the sales decline consistent over time or recent?
 ## Orders Investigation
 -  Do underperforming stores have fewer orders?
