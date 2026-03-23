@@ -11,9 +11,9 @@ The goal of the analysis was to identify the reasons behind this underperformanc
 -  hich stores are underperforming compared to the company average?
 -  Is the sales decline consistent over time or recent?
 ## Orders Investigation
--- Do underperforming stores have fewer orders?
--- What is the average order value per store?
--- Is the issue caused by low order volume or low order value?
+-  Do underperforming stores have fewer orders?
+-  What is the average order value per store?
+-  Is the issue caused by low order volume or low order value?
 ## Customer Investigation
 - Do low-performing stores have fewer customers?
 - What is the average revenue per customer in each store?
