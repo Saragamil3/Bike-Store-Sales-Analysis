@@ -45,29 +45,14 @@ Tool: DAX
 Create charts, graphs, and dashboards to visually represent the data. Visualization aids in quickly identifying key insights and making the data more accessible to stakeholders.
 Tool: Power BI Visuals 
   ## DASHBOARD
-![Region](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20072619.png)
-![Sales](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20072703.png)
-![Products](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20095451.png)
-![Region](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/Screenshot%202024-08-08%20073857.png)
-
-
-## Key Results 
-- Total Sales   8.58M
-- Net Sales   7.69M
-- Discount Percentage  10.37%
-- Total Orders   1615
-- Units Sold    4722
-- Monthly Orders  56 in 2016 , 57 in 2017 and, 24 in 2018
-- Sales Growth Rate 
-- Average Purchase Value    5.36K
-- Average Of Delivery Duration is 2 days
-- Maximum Shipping Delay is 2 days
-- Percentage of Delay in Orders    28%
-- Most Store in terms of sales is "Baldwin Bikes"
-- Most state in sales and Count of Customers is "NY"  
-- Top Sales Person in terms of Sales is  "Marcelene Boyer" 
-- In the last 7 Months of 2018, sales decreased by 66.8% compared to previous years due to a decline in the number of orders during this period.
-- Most brand name in terms of sales is "Trek" and, Category name is "Mountain Bikes" and "Cruisers Bicycles" in terms of orders
+<p align="center">
+  <img src="https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202024-08-08%20072619.png" width="400"/>
+  <img src="https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202026-03-25%20235918.png" width="400"/>
+  <img src="https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202026-03-25%20235940.png" width="400"/>
+  <img src="https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202026-03-26%20000001.png" width="400"/>
+  <img src="https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202026-03-26%20000022.png" width="400"/>
+  <img src="https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202026-03-26%20000040.png" width="400"/>
+</p>
 
 
 
