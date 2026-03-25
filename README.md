@@ -37,7 +37,7 @@ Tool: SQL, SQL server
 Clean and prepare the collected data by removing duplicates rows 
 Tool: Power Query 
 ## Data Modeling 
-Designing a star schema to organize data into one fact and 6 dimension tables. This improves query performance and enhances ease of analysis
+Designing a star schema to organize data into one fact and 5 dimension tables. This improves query performance and enhances ease of analysis
 ## Data Analysis 
 identify trends, patterns, and correlations within the sales data
 Tool: DAX 
