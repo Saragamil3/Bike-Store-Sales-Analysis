@@ -46,12 +46,12 @@ Create charts, graphs, and dashboards to visually represent the data. Visualizat
 Tool: Power BI Visuals 
   ## Report
 <p align="center">
-  <img src="https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202026-03-25%20235853.png" width="500"/>
-  <img src="https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202026-03-25%20235918.png" width="500"/>
-  <img src="https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202026-03-25%20235940.png" width="500"/>
-  <img src="https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202026-03-26%20000001.png" width="500"/>
-  <img src="https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202026-03-26%20000022.png" width="500"/>
-  <img src="https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202026-03-26%20000040.png" width="500"/>
+  <img src="https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202026-03-25%20235853.png" width="400"/>
+  <img src="https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202026-03-25%20235918.png" width="400"/>
+  <img src="https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202026-03-25%20235940.png" width="400"/>
+  <img src="https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202026-03-26%20000001.png" width="400"/>
+  <img src="https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202026-03-26%20000022.png" width="400"/>
+  <img src="https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202026-03-26%20000040.png" width="400"/>
 </p>
 
 
