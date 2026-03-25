@@ -38,6 +38,7 @@ Clean and prepare the collected data by removing duplicates rows
 Tool: Power Query 
 ## Data Modeling 
 Designing a star schema to organize data into one fact and 5 dimension tables. This improves query performance and enhances ease of analysis
+![model](https://github.com/Saragamil3/Bike-Store-Sales-Analysis/blob/main/images/Screenshot%202026-03-26%20001602.png)
 ## Data Analysis 
 identify trends, patterns, and correlations within the sales data
 Tool: DAX 
